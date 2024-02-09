@@ -1,8 +1,8 @@
-# divar-starter-kit
+# ssr-starter-kit
 
-divar-starter-kit is a React.js SSR-ready boilerplate using Razzle by [divar.ir](https://divar.ir).
+ssr-starter-kit is a React.js SSR-ready boilerplate using Razzle.
 
-**divar-starter-kit comes with the "battery-pack included"**:
+**ssr-starter-kit comes with the "battery-pack included"**:
 
 * [React](https://github.com/facebook/react) and [Razzle](https://razzlejs.org) features.
 * [Next.js](https://nextjs.org/docs/api-reference/data-fetching/getInitialProps) like SSR features.
@@ -17,8 +17,7 @@ divar-starter-kit is a React.js SSR-ready boilerplate using Razzle by [divar.ir]
 
 
 ```bash
-git clone https://github.com/divar-ir/divar-starter-kit
-cd divar-starter-kit
+cd ssr-starter-kit
 yarn
 yarn start
 ```
@@ -99,7 +98,7 @@ export default Component;
 
 ## Directory Layout
 
-divar-starter-kit comes with a suggested project structure looks like:
+ssr-starter-kit comes with a suggested project structure looks like:
 
 ```
 .
@@ -142,6 +141,3 @@ ComponentName
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)

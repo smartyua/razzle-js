@@ -22,7 +22,7 @@ class Home extends Component {
 
     return (
       <main className="container home">
-        <MetaTags title="divar-starter-kit 🚀" />
+        <MetaTags title="ssr-starter-kit 🚀" />
         <img
           className="home__logo"
           src={logo}
